@@ -192,13 +192,16 @@
 				TargetAttributes = {
 					536EFBCB2158189B001696DF = {
 						CreatedOnToolsVersion = 9.3.1;
+						LastSwiftMigration = 1010;
 					};
 					536EFBDD2158189C001696DF = {
 						CreatedOnToolsVersion = 9.3.1;
+						LastSwiftMigration = 1010;
 						TestTargetID = 536EFBCB2158189B001696DF;
 					};
 					536EFBE82158189C001696DF = {
 						CreatedOnToolsVersion = 9.3.1;
+						LastSwiftMigration = 1010;
 						TestTargetID = 536EFBCB2158189B001696DF;
 					};
 				};
@@ -429,7 +432,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = PolyMTL.CocoaHelloWorld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -447,7 +450,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = PolyMTL.CocoaHelloWorld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -466,7 +469,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = PolyMTL.CocoaHelloWorldTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CocoaHelloWorld.app/Contents/MacOS/CocoaHelloWorld";
 			};
 			name = Debug;
@@ -486,7 +489,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = PolyMTL.CocoaHelloWorldTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CocoaHelloWorld.app/Contents/MacOS/CocoaHelloWorld";
 			};
 			name = Release;
@@ -505,7 +508,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = PolyMTL.CocoaHelloWorldUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TEST_TARGET_NAME = CocoaHelloWorld;
 			};
 			name = Debug;
@@ -524,7 +527,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = PolyMTL.CocoaHelloWorldUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TEST_TARGET_NAME = CocoaHelloWorld;
 			};
 			name = Release;
